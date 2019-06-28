@@ -435,6 +435,7 @@ p.cuatro-right-bottom {
     }
     .tres-left {
         width: 100%;
+        margin-right: 0;
     }
     div.tres-uno {
         width: 100%;
